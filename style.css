@@ -1,0 +1,72 @@
+body{
+    font-family: 'Chango', cursive;
+    background-color: #F40B74;
+}
+
+.div-header{
+    background-color: #F40B74;
+    color:white;
+
+}
+
+img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: #F40B74;
+    box-shadow: 5px 5px ;
+    padding:10px;
+    margin-top: 15px;
+    border: solid white 2px;
+}
+
+.main_div label{
+    font-size: 27px;
+    font-family: 'Chango', cursive;
+}
+
+.main_div button{
+    width:135px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px grey;
+    border: solid white 2px;
+    margin-left: 53px;
+}
+
+#camera,#results {
+    width:300px;
+    height: 300px;
+    border: white dashed 2px;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+
+}
+
+.footer_div h4{
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+}
+
+#captured_img{
+    width: 300;
+    height: 300;
+}
